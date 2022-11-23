@@ -1,5 +1,4 @@
 # vanella-project
-A simple vanilla HTML/CSS/Javascript website that allows its users to practice their english (en-US) pronunciation with the help of the Web Speech API.
 ![Screenshot (45)](https://user-images.githubusercontent.com/102143515/203491914-aea24e1a-f419-42db-9997-8c7ef5e14d6d.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/102143515/203491936-328a0245-c76b-45a6-9878-715d9dfadc50.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/102143515/203491937-8d264e9c-b756-44ac-b3ba-b662f78f1eb2.png)
